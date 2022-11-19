@@ -1,4 +1,4 @@
-# code-sflk README
+# TO BE CLEAR, THIS IS DORMANT WIP WORK FOR SFLK, NOT EVEN ALPHA, COME BACK LATER
 
 A VS-code extension for the [Sflk](https://github.com/anima-libera/sflk) language.
 
